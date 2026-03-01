@@ -1,0 +1,236 @@
+{
+    "metadata": {
+        "title": "Caerus | Préparez votre entrée à l'EPFL",
+        "description": "Programme de préparation estivale pour les futurs étudiants EPFL. Cours, exercices et séances Zoom avec des étudiants qui ont vécu la même expérience."
+    },
+    "nav": {
+        "home": "Accueil",
+        "pricing": "Tarifs",
+        "about": "À propos",
+        "faq": "FAQ",
+        "cta": "Rejoindre"
+    },
+    "hero": {
+        "badge": "Programme été 2026",
+        "title_line1": "Réussir son entrée",
+        "title_line2": "à l'EPFL",
+        "subtitle": "Un programme de préparation estivale structuré pour arriver confiant en septembre. Cours, exercices et accompagnement par des étudiants EPFL.",
+        "cta_primary": "Voir l'offre",
+        "cta_secondary": "Comment ça marche",
+        "trust": "Rejoignez d'autres futurs EPFLiens"
+    },
+    "why": {
+        "label": "Pourquoi se préparer ?",
+        "title": "L'EPFL est exigeante",
+        "description": "Chaque année, de nombreux étudiants sont surpris par l'intensité des premières semaines. Nous le savons, nous l'avons vécu.",
+        "points": {
+            "pace": {
+                "title": "Rythme soutenu",
+                "description": "Le volume de matière est conséquent dès le premier jour. Les cours avancent vite, sans attendre."
+            },
+            "autonomy": {
+                "title": "Autonomie attendue",
+                "description": "Personne ne vous dira quand réviser. Vous êtes responsable de votre organisation et de votre progression."
+            },
+            "foundations": {
+                "title": "Bases solides requises",
+                "description": "Les mathématiques et la physique du gymnase sont supposées maîtrisées. Les lacunes se paient cher."
+            },
+            "competition": {
+                "title": "Environnement exigeant",
+                "description": "Vos camarades viennent de toute l'Europe avec des niveaux variés. Il faut être prêt à s'adapter."
+            }
+        }
+    },
+    "method": {
+        "label": "Notre méthode",
+        "title": "Une préparation complète",
+        "description": "Cours + exercices + séances Zoom de correction et questions/réponses. Tout ce qu'il faut pour arriver confiant.",
+        "features": {
+            "lessons": {
+                "title": "Cours structurés",
+                "description": "Des leçons claires sur les fondamentaux en mathématiques et physique, adaptées au niveau EPFL."
+            },
+            "exercises": {
+                "title": "Exercices pratiques",
+                "description": "Des séries d'exercices progressifs pour consolider chaque notion et développer les bons réflexes."
+            },
+            "zoom": {
+                "title": "Séances Zoom hebdomadaires",
+                "description": "Correction d'exercices, questions/réponses, et conseils sur la vie à l'EPFL. En direct chaque semaine."
+            },
+            "community": {
+                "title": "Accompagnement continu",
+                "description": "Un espace pour poser vos questions et échanger avec d'autres futurs étudiants EPFL."
+            }
+        }
+    },
+    "audience": {
+        "label": "Pour qui ?",
+        "title": "Êtes-vous concerné ?",
+        "description": "Ce programme s'adresse aux futurs étudiants EPFL qui veulent maximiser leurs chances de réussite.",
+        "points": [
+            "Vous démarrez à l'EPFL en septembre prochain",
+            "Vous voulez consolider vos bases avant la rentrée",
+            "Vous préférez arriver confiant plutôt que stressé",
+            "Vous cherchez un cadre structuré pour vous préparer"
+        ]
+    },
+    "social": {
+        "label": "Qui sommes-nous ?",
+        "title": "Trois étudiants, une mission",
+        "description": "Nous sommes trois étudiants EPFL qui avons vécu la première année. Nous nous sommes sentis mal préparés face à l'intensité et aux exigences de l'école. Les lacunes en mathématiques et en physique nous ont coûté cher en temps et en stress.",
+        "story": "Après avoir traversé ces épreuves, nous avons décidé d'agir. Notre objectif : donner aux futurs étudiants les outils que nous aurions aimé avoir. Préparer la prochaine génération pour qu'elle arrive confiante et prête à réussir.",
+        "cta": "Rejoignez-nous dans cette mission"
+    },
+    "cta_strip": {
+        "title": "Prêt à bien démarrer ?",
+        "description": "Préparation pendant l'été avant la rentrée. À partir de 49€/mois.",
+        "cta": "Voir les tarifs"
+    },
+    "pricing": {
+        "title": "Tarifs",
+        "subtitle": "Un investissement pour votre réussite",
+        "card": {
+            "label": "Préparation Été",
+            "price": "49",
+            "currency": "€",
+            "period": "/mois",
+            "description": "Accès complet pendant l'été avant la rentrée EPFL (juin–septembre)",
+            "features": [
+                "Accès à tous les cours et leçons",
+                "Séries d'exercices progressifs",
+                "Séances Zoom hebdomadaires (correction + Q&A)",
+                "Conseils sur la vie et l'organisation à l'EPFL",
+                "Accès à la communauté d'entraide"
+            ],
+            "cta": "Rejoindre la liste d'attente"
+        },
+        "addon": {
+            "title": "Tutorat privé",
+            "description": "Besoin d'un accompagnement individuel ? Nous proposons des séances de tutorat privé en supplément.",
+            "note": "Tutorat privé disponible sur demande (tarif supplémentaire).",
+            "cta": "Nous contacter"
+        },
+        "timeline": {
+            "title": "Calendrier",
+            "description": "Le programme se déroule pendant l'été, avant la rentrée EPFL.",
+            "period": "Juin — Septembre"
+        }
+    },
+    "about": {
+        "title": "À propos de Caerus",
+        "subtitle": "Des étudiants qui aident les futurs étudiants",
+        "mission": {
+            "title": "Notre mission",
+            "description": "Réduire le stress et améliorer la préparation des nouveaux étudiants EPFL. Nous croyons qu'une bonne préparation change tout."
+        },
+        "why": {
+            "title": "Pourquoi Caerus ?",
+            "description": "Nous avons vécu l'expérience EPFL. Nous savons combien les premières semaines peuvent être difficiles quand on n'est pas préparé. Caerus est né de cette expérience : offrir ce que nous aurions aimé avoir."
+        },
+        "values": {
+            "title": "Nos valeurs",
+            "items": [
+                {
+                    "title": "Clarté",
+                    "description": "Des explications directes, sans jargon inutile."
+                },
+                {
+                    "title": "Rigueur",
+                    "description": "Un contenu sérieux, à la hauteur des attentes de l'EPFL."
+                },
+                {
+                    "title": "Empathie",
+                    "description": "Nous comprenons vos doutes car nous les avons vécus."
+                },
+                {
+                    "title": "Réalisme",
+                    "description": "Pas de promesses impossibles. Juste une préparation honnête."
+                }
+            ]
+        },
+        "team": {
+            "title": "L'équipe",
+            "description": "Une petite équipe d'étudiants EPFL passionnés par l'enseignement.",
+            "members": [
+                {
+                    "name": "Jean-Baptiste Rombaldi",
+                    "role": "Co-fondateur",
+                    "placeholder": false
+                },
+                {
+                    "name": "Sibrecht van Hovell",
+                    "role": "Co-fondateur",
+                    "placeholder": false
+                },
+                {
+                    "name": "Ethan Poullain",
+                    "role": "Co-fondateur",
+                    "placeholder": false
+                }
+            ]
+        }
+    },
+    "faq": {
+        "title": "Questions fréquentes",
+        "subtitle": "Tout ce que vous devez savoir",
+        "items": [
+            {
+                "question": "Est-ce que c'est pour tous les niveaux ?",
+                "answer": "Le programme est conçu pour les étudiants qui ont un niveau de gymnase/lycée et qui vont entrer à l'EPFL. Si vous avez des lacunes importantes, le programme vous aidera à les combler. Si vous avez déjà un bon niveau, il renforcera vos acquis."
+            },
+            {
+                "question": "Combien de temps par semaine ?",
+                "answer": "Comptez environ 5 à 10 heures par semaine selon votre rythme. Vous pouvez avancer à votre propre cadence, mais nous recommandons une régularité pour bien assimiler les notions."
+            },
+            {
+                "question": "Comment fonctionnent les Zoom ?",
+                "answer": "Chaque semaine, nous organisons une séance en direct sur Zoom. Au programme : correction des exercices de la semaine, explications complémentaires, et vos questions. Les séances sont enregistrées si vous ne pouvez pas y assister."
+            },
+            {
+                "question": "Le tutorat privé, c'est comment ?",
+                "answer": "Le tutorat privé est une option supplémentaire pour ceux qui souhaitent un accompagnement individuel. Vous travaillez en direct avec un tuteur sur vos difficultés spécifiques. Contactez-nous pour en savoir plus sur les tarifs."
+            },
+            {
+                "question": "Et si je ne peux pas assister en live ?",
+                "answer": "Les séances Zoom sont enregistrées et disponibles en replay. Vous pouvez aussi poser vos questions par écrit et nous y répondrons lors de la prochaine séance ou par message."
+            },
+            {
+                "question": "Quand commencer ?",
+                "answer": "Le programme est prévu pour l'été avant la rentrée EPFL, généralement de juin à septembre. Nous vous recommandons de commencer le plus tôt possible pour avoir le temps de bien assimiler les contenus."
+            }
+        ]
+    },
+    "contact": {
+        "title": "Rejoindre la liste d'attente",
+        "description": "Laissez vos coordonnées et nous vous contacterons dès l'ouverture des inscriptions.",
+        "form": {
+            "name": "Prénom",
+            "email": "Email",
+            "message": "Message (optionnel)",
+            "submit": "S'inscrire",
+            "success": "Merci ! Nous vous contacterons bientôt.",
+            "error": "Une erreur s'est produite. Veuillez réessayer."
+        }
+    },
+    "footer": {
+        "description": "Programme de préparation estivale pour les futurs étudiants EPFL.",
+        "links": {
+            "title": "Navigation",
+            "home": "Accueil",
+            "pricing": "Tarifs",
+            "about": "À propos",
+            "faq": "FAQ"
+        },
+        "contact": {
+            "title": "Contact",
+            "email": "contact@caerus.ch"
+        },
+        "legal": {
+            "privacy": "Confidentialité",
+            "terms": "Conditions"
+        },
+        "copyright": "© 2025 Caerus. Tous droits réservés."
+    }
+}

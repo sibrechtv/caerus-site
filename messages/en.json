@@ -1,0 +1,236 @@
+{
+    "metadata": {
+        "title": "Caerus | Prepare for EPFL",
+        "description": "Summer preparation program for future EPFL students. Courses, exercises, and Zoom sessions with students who've been through the same experience."
+    },
+    "nav": {
+        "home": "Home",
+        "pricing": "Pricing",
+        "about": "About",
+        "faq": "FAQ",
+        "cta": "Join"
+    },
+    "hero": {
+        "badge": "Summer 2026 Program",
+        "title_line1": "Succeed at EPFL",
+        "title_line2": "from Day One",
+        "subtitle": "A structured summer preparation program to arrive confident in September. Courses, exercises, and support from EPFL students.",
+        "cta_primary": "View Pricing",
+        "cta_secondary": "How It Works",
+        "trust": "Join other future EPFL students"
+    },
+    "why": {
+        "label": "Why prepare?",
+        "title": "EPFL is Demanding",
+        "description": "Every year, many students are surprised by the intensity of the first weeks. We know—we've been there.",
+        "points": {
+            "pace": {
+                "title": "Fast Pace",
+                "description": "The volume of material is substantial from day one. Courses move quickly, without waiting."
+            },
+            "autonomy": {
+                "title": "Autonomy Expected",
+                "description": "No one will tell you when to study. You're responsible for your own organization and progress."
+            },
+            "foundations": {
+                "title": "Strong Foundations Required",
+                "description": "High school math and physics are assumed to be mastered. Gaps are costly."
+            },
+            "competition": {
+                "title": "Demanding Environment",
+                "description": "Your classmates come from all over Europe with varying levels. You need to be ready to adapt."
+            }
+        }
+    },
+    "method": {
+        "label": "Our Method",
+        "title": "Complete Preparation",
+        "description": "Courses + exercises + Zoom sessions for correction and Q&A. Everything you need to arrive confident.",
+        "features": {
+            "lessons": {
+                "title": "Structured Courses",
+                "description": "Clear lessons on math and physics fundamentals, adapted to EPFL level."
+            },
+            "exercises": {
+                "title": "Practical Exercises",
+                "description": "Progressive exercise sets to consolidate each concept and develop the right reflexes."
+            },
+            "zoom": {
+                "title": "Weekly Zoom Sessions",
+                "description": "Exercise correction, Q&A, and advice about life at EPFL. Live every week."
+            },
+            "community": {
+                "title": "Continuous Support",
+                "description": "A space to ask questions and connect with other future EPFL students."
+            }
+        }
+    },
+    "audience": {
+        "label": "Who is it for?",
+        "title": "Is This for You?",
+        "description": "This program is for future EPFL students who want to maximize their chances of success.",
+        "points": [
+            "You're starting at EPFL next September",
+            "You want to consolidate your foundations before classes begin",
+            "You'd rather arrive confident than stressed",
+            "You're looking for a structured framework to prepare"
+        ]
+    },
+    "social": {
+        "label": "Who are we?",
+        "title": "Three students, one mission",
+        "description": "We are three EPFL students who have lived through the first year. We felt unprepared for the intensity and demands of the school. Gaps in math and physics cost us dearly in time and stress.",
+        "story": "After going through these challenges, we decided to take action. Our goal: give future students the tools we wish we had. Prepare the next generation so they arrive confident and ready to succeed.",
+        "cta": "Join us in this mission"
+    },
+    "cta_strip": {
+        "title": "Ready to Start Strong?",
+        "description": "Summer preparation before EPFL starts. From €49/month.",
+        "cta": "View Pricing"
+    },
+    "pricing": {
+        "title": "Pricing",
+        "subtitle": "An investment in your success",
+        "card": {
+            "label": "Summer Prep",
+            "price": "49",
+            "currency": "€",
+            "period": "/month",
+            "description": "Full access during the summer before EPFL starts (June–September)",
+            "features": [
+                "Access to all courses and lessons",
+                "Progressive exercise sets",
+                "Weekly Zoom sessions (correction + Q&A)",
+                "Advice on life and organization at EPFL",
+                "Access to the support community"
+            ],
+            "cta": "Join the Waitlist"
+        },
+        "addon": {
+            "title": "Private Tutoring",
+            "description": "Need individual support? We offer private tutoring sessions as an add-on.",
+            "note": "Private tutoring available on request (additional fee).",
+            "cta": "Contact Us"
+        },
+        "timeline": {
+            "title": "Timeline",
+            "description": "The program runs during the summer, before EPFL starts.",
+            "period": "June — September"
+        }
+    },
+    "about": {
+        "title": "About Caerus",
+        "subtitle": "Students helping future students",
+        "mission": {
+            "title": "Our Mission",
+            "description": "Reduce stress and improve preparation for new EPFL students. We believe that good preparation changes everything."
+        },
+        "why": {
+            "title": "Why Caerus?",
+            "description": "We've lived the EPFL experience. We know how difficult the first weeks can be when you're not prepared. Caerus was born from this experience: offering what we wish we had."
+        },
+        "values": {
+            "title": "Our Values",
+            "items": [
+                {
+                    "title": "Clarity",
+                    "description": "Direct explanations, without unnecessary jargon."
+                },
+                {
+                    "title": "Rigor",
+                    "description": "Serious content, meeting EPFL expectations."
+                },
+                {
+                    "title": "Empathy",
+                    "description": "We understand your doubts because we've experienced them."
+                },
+                {
+                    "title": "Realism",
+                    "description": "No impossible promises. Just honest preparation."
+                }
+            ]
+        },
+        "team": {
+            "title": "The Team",
+            "description": "A small team of EPFL students passionate about teaching.",
+            "members": [
+                {
+                    "name": "Jean-Baptiste Rombaldi",
+                    "role": "Co-founder",
+                    "placeholder": false
+                },
+                {
+                    "name": "Sibrecht van Hovell",
+                    "role": "Co-founder",
+                    "placeholder": false
+                },
+                {
+                    "name": "Ethan Poullain",
+                    "role": "Co-founder",
+                    "placeholder": false
+                }
+            ]
+        }
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Everything you need to know",
+        "items": [
+            {
+                "question": "Is this for all levels?",
+                "answer": "The program is designed for students with a high school level who are entering EPFL. If you have significant gaps, the program will help you fill them. If you already have a good level, it will strengthen your knowledge."
+            },
+            {
+                "question": "How much time per week?",
+                "answer": "Plan for about 5 to 10 hours per week depending on your pace. You can progress at your own speed, but we recommend regularity to properly absorb the concepts."
+            },
+            {
+                "question": "How do the Zoom sessions work?",
+                "answer": "Each week, we organize a live session on Zoom. On the agenda: correction of the week's exercises, additional explanations, and your questions. Sessions are recorded if you can't attend."
+            },
+            {
+                "question": "How does private tutoring work?",
+                "answer": "Private tutoring is an additional option for those who want individual support. You work directly with a tutor on your specific difficulties. Contact us to learn more about rates."
+            },
+            {
+                "question": "What if I can't attend live?",
+                "answer": "Zoom sessions are recorded and available for replay. You can also ask your questions in writing and we'll answer them during the next session or by message."
+            },
+            {
+                "question": "When should I start?",
+                "answer": "The program is designed for the summer before EPFL starts, typically from June to September. We recommend starting as early as possible to have time to properly absorb the content."
+            }
+        ]
+    },
+    "contact": {
+        "title": "Join the Waitlist",
+        "description": "Leave your details and we'll contact you when registration opens.",
+        "form": {
+            "name": "First Name",
+            "email": "Email",
+            "message": "Message (optional)",
+            "submit": "Sign Up",
+            "success": "Thank you! We'll contact you soon.",
+            "error": "An error occurred. Please try again."
+        }
+    },
+    "footer": {
+        "description": "Summer preparation program for future EPFL students.",
+        "links": {
+            "title": "Navigation",
+            "home": "Home",
+            "pricing": "Pricing",
+            "about": "About",
+            "faq": "FAQ"
+        },
+        "contact": {
+            "title": "Contact",
+            "email": "contact@caerus.ch"
+        },
+        "legal": {
+            "privacy": "Privacy",
+            "terms": "Terms"
+        },
+        "copyright": "© 2025 Caerus. All rights reserved."
+    }
+}
